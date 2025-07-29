@@ -7,7 +7,7 @@ export default function NavBar () {
     }
 
     return (
-        <div className="w-full bg-black flex flex-col justify-start items-start gap-8 text-white py-4 px-3 ">
+        <div className="w-full bg-black flex flex-col justify-start items-start gap-8 text-white py-4 px-3 fixed top-0 right-0 z-10">
         {/* outer visible div */}
         <div className="w-full flex flex-row justify-between items-center text-white">
                 {/* mobile navigation */}
