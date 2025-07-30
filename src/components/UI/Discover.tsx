@@ -15,7 +15,7 @@ const services = [
 
 export default function Discover () {
     return (
-        <div className="bg-[url('/images/Frame-5.jpg')] bg-cover bg-center w-full h-auto text-white flex flex-col justify-center items-center gap-15 py-7 lg:flex-row lg:items-start lg:gap-0 lg:px-10 lg:pt-10">
+        <div className="bg-[url('/images/Frame-5.jpg')] bg-cover bg-center w-full h-auto text-white flex flex-col justify-center items-center gap-15 py-7 mt-15 lg:flex-row lg:items-start lg:gap-0 lg:px-10 lg:pt-10">
             
             {/* first content */}
             <div className="w-4/5 flex flex-col justify-center items-center gap-4 text-center lg:w-full lg:items-start lg:gap-10">
